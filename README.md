@@ -106,8 +106,8 @@ _BSc in Computer Science_
 </p>
 
 <p align="center">
-  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuski-Ahamed&layout=donut&theme=github_dark" /></span>
-  <span><img src="https://github-readme-stats.vercel.app/api?username=Nuski-Ahamed&show_icons=true&theme=github_dark" /></span>
+  <span><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nuski-Ahamed&theme=github_dark" /></span>
+  <span><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nuski-Ahamed&theme=github_dark" /></span>
 </p>
 
 ---
